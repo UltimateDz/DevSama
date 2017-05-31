@@ -1,0 +1,2 @@
+﻿RewriteEngine on 
+RewriteRule ^image.png$ iplogger.php
